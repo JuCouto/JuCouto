@@ -1,4 +1,6 @@
-### Juliana Couto ✨ 
+### Juliana Couto ✨
+<img src="https://api.iconify.design/codicon:book.svg">
+
 
 <!--
 **JuCouto/JuCouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
