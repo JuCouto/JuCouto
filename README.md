@@ -1,11 +1,11 @@
-### <h2 align="center">Juliana Couto  🦋</h2> 
+ <h2 align="center">Juliana Couto  </h2> 
 
 <div align="center">💻Aluna da Residência de TIC do Serratec</div>
 
 
 
-<div align="center"><img style="width: 17px;" src="https://api.iconify.design/logos:figma.svg"></div>
-<div align="center">  <img style="width: 22px;" src="https://api.iconify.design/logos:html-5.svg"> <img style="width: 22px;" src="https://api.iconify.design/logos:css-3.svg">  <img style="width: 26px;" src="https://api.iconify.design/logos:javascript.svg"></div>
+<div align="center"><br><img style="width: 15px;" src="https://api.iconify.design/logos:figma.svg"></div>
+<div align="center"> <br> <img style="width: 22px;" src="https://api.iconify.design/logos:html-5.svg"> <img style="width: 22px;" src="https://api.iconify.design/logos:css-3.svg">  <img style="width: 26px;" src="https://api.iconify.design/logos:javascript.svg"></div>
 
 📍Petrópolis-RJ
 
