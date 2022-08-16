@@ -5,6 +5,7 @@
 
 
 <div align="center"><br><img style="width: 15px;" src="https://api.iconify.design/logos:figma.svg"></div>
+<div align="center"><br><img style="width: 25px;" src="https://api.iconify.design/logos:java.svg"><div>
 <div align="center"> <br> <img style="width: 22px;" src="https://api.iconify.design/logos:html-5.svg"> <img style="width: 22px;" src="https://api.iconify.design/logos:css-3.svg">  <img style="width: 26px;" src="https://api.iconify.design/logos:javascript.svg"></div>
 
 📍Petrópolis-RJ
