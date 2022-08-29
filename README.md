@@ -1,6 +1,6 @@
  <h2 align="center">Juliana Couto  </h2> 
 
-<div align="center">💻Aluna da Residência de TIC do Serratec</div>
+<div align="center">💻Desenvolvedora</div>
 
 
 
