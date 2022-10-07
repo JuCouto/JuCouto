@@ -1,6 +1,6 @@
  <h2 align="center">Juliana Couto  </h2> 
 
-<div align="center">💻Desenvolvedora</div>
+<div align="center">💻Programadora</div>
 
 
 
