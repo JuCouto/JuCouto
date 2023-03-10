@@ -1,6 +1,6 @@
  <h2 align="center">Juliana Couto  </h2> 
 
-<div align="center">💻Programadora</div>
+<div align="center">💻Desenvolvedora </div>
 
 
 
@@ -12,15 +12,13 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuCouto&layout=compact&langs_count=7&theme=ligth"/>
 </div>
+ <div align="center"><br><img style="width: 48px;gap:10px;" src="https://api.iconify.design/vscode-icons/file-type-csharp2.svg"><img style="width: 45px;" src="https://api.iconify.design/logos/dotnet.svg"><div>
+
+
+
+
  
-  
 
-
-
-<div align="center"><br><img style="width: 38px;gap:10px;" src="https://api.iconify.design/vscode-icons/file-type-csharp2.svg"><img style="width: 35px;" src="https://api.iconify.design/logos/dotnet.svg"><div>
- 
-<div align="center"><br><img style="width: 25px;gap:10px;" src="https://api.iconify.design/logos:java.svg">    <img style="width: 25px;" src="https://www.clipartmax.com/png/middle/241-2411261_categories-spring-tool-suite-icon.png"><div>
-<div align="center">
  
 <div align="center"> <br> <img style="width: 22px;" src="https://api.iconify.design/logos:html-5.svg"> <img style="width: 22px;" src="https://api.iconify.design/logos:css-3.svg">  <img style="width: 26px;" src="https://api.iconify.design/logos:javascript.svg"></div>
 
@@ -36,5 +34,6 @@ https://api.iconify.design/logos:react.svg
 <img src="https://api.iconify.design/logos:javascript.svg">
 <img src="https://api.iconify.design/codicon:book.svg">
 <img src="https://api.iconify.design/logos:java.svg">
-
+<div align="center"><br><img style="width: 25px;gap:10px;" src="https://api.iconify.design/logos:java.svg">    <img style="width: 25px;" src="https://www.clipartmax.com/png/middle/241-2411261_categories-spring-tool-suite-icon.png"><div>
+<div align="center">
 -->
