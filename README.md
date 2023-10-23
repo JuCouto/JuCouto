@@ -1,22 +1,20 @@
  <h2 >Olá, sou Juliana Couto  </h2> 
 
-<div >💻Desenvolvedora C# .NET , React Js</div>
+<div >💻Desenvolvedora React Js,  C# .NET </div>
 
-
-
-<div > <br>
-<h2>Backend</h2>
-   <div >
-    <img style="width: 28px;" src="https://api.iconify.design/vscode-icons/file-type-csharp2.svg">
-    <img style="width: 25px;" src="https://api.iconify.design/logos/dotnet.svg">
- </div>
 
 <div>
  <h2>Frontend</h2>
  <div ><img style="width: 26px;" src="https://api.iconify.design/logos:react.svg">
        <img style="width: 26px;" src="https://api.iconify.design/logos:javascript.svg">
  </div>
-
+<div > <br>
+ 
+<h2>Backend</h2>
+   <div >
+    <img style="width: 28px;" src="https://api.iconify.design/vscode-icons/file-type-csharp2.svg">
+    <img style="width: 25px;" src="https://api.iconify.design/logos/dotnet.svg">
+ </div><br>
  
 
 
