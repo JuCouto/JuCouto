@@ -1,4 +1,4 @@
- <h2 >Olá, sou Juliana Couto  </h2> 
+ <h2 style="color:blue" >Olá, sou Juliana Couto  </h2> 
 
 <div >💻Desenvolvedora C# .NET , React Js</div>
 
