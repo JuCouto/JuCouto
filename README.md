@@ -1,6 +1,7 @@
- <h2 style="color:blue" >Olá, sou Juliana Couto  </h2> 
+ <h2 >Olá, sou Juliana Couto  </h2> 
 
 <div >💻Desenvolvedora C# .NET , React Js</div>
+
 
 
 <div > <br>
@@ -21,7 +22,7 @@
 
 
     
-<br>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuCouto&layout=compact&langs_count=7&theme=ligth"/>
+<br>  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuCouto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
