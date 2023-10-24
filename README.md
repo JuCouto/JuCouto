@@ -1,10 +1,14 @@
- <h2 >Olá, sou Juliana Couto  </h2> 
 
-<div >💻Desenvolvedora React Js,  C# .NET </div>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E12E75&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E12E75&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Juliana+Couto:%29)](https://git.io/typing-svg)
 
 
+<div  align="center">💻Desenvolvedora React Js,  C# .NET </div>
 
-<div>
+
+<br>
+<div align="center">
  <h2>Frontend</h2>
  <div>
   <img align="Center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -26,7 +30,7 @@
   <br>  <br>
   
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 
 
 
@@ -49,7 +53,8 @@
 Here are some ideas to get you started:
 https://api.iconify.design/logos:react.svg
 
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 tecnologia ícones:
  <div ><img style="width: 26px;" src="https://api.iconify.design/logos:react.svg">
        <img style="width: 26px;" src="https://api.iconify.design/logos:javascript.svg">
